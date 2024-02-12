@@ -26,7 +26,7 @@ Welcome to our exciting 2D platformer game developed in Unity!
 
 **Disclaimer**: If the player collides with the spikes, they will have to restart the game by themselves.
 ## Descriptive Document - https://docs.google.com/document/d/1pyrV19kgIQO-0Vgnm9xvPXL1x7lfH9vqq2qs-Fgaakg/edit?usp=sharing
-## Drive Download Link - https://drive.google.com/file/d/1956GKv6SwB8H2QgovfP-g3QE4m6x5_z9/view?usp=sharing
+## Drive Download Link## - https://drive.google.com/file/d/1qxeAL0mx2jTGUn8SqnVCr0-Kcw9Xxrtw/view?usp=sharing
  **Name** - Akash Singh | USC ID - 2077425762.
  ||
  **Name** -Zebang Hu | USC ID -  6045844836
