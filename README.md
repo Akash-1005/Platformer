@@ -12,7 +12,7 @@ This is a simple 2D platformer game developed in Unity.
 
 ## Controls
 
-- **Left/Right Arrows**: Move left or right.
+- **Inverted User Controls Left/Right Arrows**: Move right or left INSTEAD OF left or right.
 - **Space**: Jump.
 - **G**: Toggle between Earth and Moon gravity.
 
